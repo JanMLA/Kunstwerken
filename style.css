@@ -1,6 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: lightblue;
+}
+h1 {
+color: red;
+text-align: center;
+}
+p1 {
+  text-size: 20px;
+  font-family: verdena;
 }
 canvas {
   display: block;
